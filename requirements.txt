@@ -1,0 +1,12 @@
+selenium==3.141.0
+pytest==6.0.1
+pytest-html
+pytest-xdist
+allure-pytest
+webdriver_manager
+pytest-rerunfailures
+setuptools~=50.3.0
+parameterized==0.7.4
+xlrd
+ddt
+pytest-html-reporter
